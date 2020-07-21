@@ -1,0 +1,27 @@
+{
+  "name": "chenwei-plugin-bmap",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bMapPlugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chenwei",
+  "homepage": "https://github.com/chenwei116057/chenwei-plugin-bmap",
+  "licenses": [
+    {
+      "license": "MIT"
+    }
+  ],
+  "cordova": {
+    "id": "chenwei-plugin-bmap",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "cordova",
+    "location",
+    "bdmap"
+  ]
+}
